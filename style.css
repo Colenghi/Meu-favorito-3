@@ -1,0 +1,27 @@
+.menu {
+    position:fixed;
+    top: 0%;
+    width:100%;
+    background-color:rgb(0, 0, 0);
+    height: 55px;
+    color:black !important
+
+}
+.links{
+    float:right;
+    display:block;
+    padding:15px;
+}
+#myw{
+    width:540px;
+    height:540px;
+}
+a:visited{
+    color:white
+}
+ul{
+    margin:0;
+}
+body{
+    text-align:center;
+}
